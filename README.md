@@ -1,7 +1,9 @@
-
+<!--
 <h1 align="center">🤪Introduce</h1>
 
 <!-- <div align=center> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> </div> -->
+
+<!--
 <h3 align="center"> jinyongmin1 => 진용민😙</h3>
 <h3 align="center"> 안녕하세요 저는 개발자가 되기 위해 공부하고 있는 학생입니다.🎓 </h3>
 

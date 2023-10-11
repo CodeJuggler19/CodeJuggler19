@@ -10,6 +10,23 @@
 </div>
 -->
 
+
+<div align="center">
+	
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+</div>
+<div align="center">
+	
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)		
+</div>
+
+<div align="center">
+	
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)		
+</div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeJuggler19&layout=compact"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=CodeJuggler19&show_icons=true">

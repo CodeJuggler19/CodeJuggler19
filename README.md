@@ -29,7 +29,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeJuggler19&layout=compact"><br><br>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeJuggler19&layout=compact"><br><br> -->
   <img src="https://github-readme-stats.vercel.app/api?username=CodeJuggler19&show_icons=true">
 </div>
 

@@ -33,4 +33,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CodeJuggler19&show_icons=true">
 </div>
 
-<!-- ![](./profile-3d-contrib/profile-gitblock.svg) -->
+![](./profile-3d-contrib/profile-gitblock.svg) 

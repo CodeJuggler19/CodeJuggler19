@@ -2,10 +2,11 @@
   <img  src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CodeJuggler🤹&fontSize=90" />  
 </div>
 
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeJuggler19&layout=compact"><br><br> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeJuggler19&show_icons=true">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeJuggler19&show_icons=true&theme=onedark" style="width: 48%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeJuggler19&layout=compact" style="width: 48%;">
 </div>
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlsdydals7)](https://solved.ac/wlsdydals7) -->
 
 <div align="center">
 

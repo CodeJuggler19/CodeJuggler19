@@ -6,8 +6,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CodeJuggler19&show_icons=true&theme=onedark" style="width: 48%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeJuggler19&layout=compact&theme=onedark" style="width: 48%;">
 </div>
+<div align=center>
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wlsdydals7)
+  
+</div>
 
 <h2>⛏ Skill</h2>
 <details>

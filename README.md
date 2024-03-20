@@ -6,8 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=CodeJuggler19&show_icons=true&theme=onedark" style="width: 48%;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeJuggler19&layout=compact&theme=onedark" style="width: 48%;">
 </div>
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlsdydals7)](https://solved.ac/wlsdydals7) -->
 
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wlsdydals7)
 
 <h2>⛏ Skill</h2>
 <details>
@@ -60,5 +60,4 @@
 </div>
 </details>
 </br>
-
 ![](./profile-3d-contrib/profile-night-green.svg)

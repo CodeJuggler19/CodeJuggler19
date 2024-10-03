@@ -58,7 +58,7 @@
 <summary></summary>
 <div markdown="1">
 
-- [NHN Cloud API개발 아르바이트](https://www.nhncloud.com/kr) | 2024.01.02 ~ 2024.02.29       
+- [NHN Cloud API개발](https://www.nhncloud.com/kr) | 2024.01.02 ~ 2024.02.29       
 
 </div>
 </details>

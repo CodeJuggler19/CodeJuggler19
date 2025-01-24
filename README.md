@@ -2,7 +2,7 @@
   <img  src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=CodeJuggler🤹&fontSize=90" />  
 </div>
 -->
-
+<!--
 <div align=center>
   <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=CodeJuggler19&show_icons=true&theme=onedark" style="width: 48%;">

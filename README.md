@@ -1,8 +1,9 @@
-<div align=center>
+<!-- <div align=center>
   
   ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wlsdydals7)
   
-</div>
+</div> -->
+
 <!--
 <h2>⛏ Skill</h2>
 <details>
